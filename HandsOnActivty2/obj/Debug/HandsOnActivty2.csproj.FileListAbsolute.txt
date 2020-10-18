@@ -1,0 +1,10 @@
+C:\Users\CunaRigelKent(Studen\source\repos\HandsOnActivty2\HandsOnActivty2\bin\Debug\HandsOnActivty2.exe.config
+C:\Users\CunaRigelKent(Studen\source\repos\HandsOnActivty2\HandsOnActivty2\bin\Debug\HandsOnActivty2.exe
+C:\Users\CunaRigelKent(Studen\source\repos\HandsOnActivty2\HandsOnActivty2\bin\Debug\HandsOnActivty2.pdb
+C:\Users\CunaRigelKent(Studen\source\repos\HandsOnActivty2\HandsOnActivty2\obj\Debug\HandsOnActivty2.csprojAssemblyReference.cache
+C:\Users\CunaRigelKent(Studen\source\repos\HandsOnActivty2\HandsOnActivty2\obj\Debug\HandsOnActivty2.StringFormatException.resources
+C:\Users\CunaRigelKent(Studen\source\repos\HandsOnActivty2\HandsOnActivty2\obj\Debug\HandsOnActivty2.Properties.Resources.resources
+C:\Users\CunaRigelKent(Studen\source\repos\HandsOnActivty2\HandsOnActivty2\obj\Debug\HandsOnActivty2.csproj.GenerateResource.cache
+C:\Users\CunaRigelKent(Studen\source\repos\HandsOnActivty2\HandsOnActivty2\obj\Debug\HandsOnActivty2.csproj.CoreCompileInputs.cache
+C:\Users\CunaRigelKent(Studen\source\repos\HandsOnActivty2\HandsOnActivty2\obj\Debug\HandsOnActivty2.exe
+C:\Users\CunaRigelKent(Studen\source\repos\HandsOnActivty2\HandsOnActivty2\obj\Debug\HandsOnActivty2.pdb
